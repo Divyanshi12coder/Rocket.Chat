@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  The ultimate secure open-source solution for team communications
+  The ultimate secure open-source solution for team communications 
 </h1>
 
 <p align="center">
